@@ -1,2 +1,2 @@
-# HotelReserveSys
+# 2020년 1학기 데이터베이스 최종 제출 과제
 MySQL
